@@ -1,0 +1,21 @@
+# Random Quote Android App
+
+An Android application that displays random quotes using Kotlin.
+
+## Features
+
+* Generate random quotes
+* Simple and clean UI
+* Lightweight and fast
+
+## Tech Stack
+
+* Kotlin
+* Android Studio
+* XML Layouts
+
+## How to Run
+
+1. Clone the repository
+2. Open in Android Studio
+3. Run on emulator or physical device
